@@ -29,9 +29,7 @@
         </li><li class="nav-item">
           <a class="nav-link" href="get-result">Get result</a>
         </li>
-        
       </ul>
- 
     </div>
   </div>
 </nav>
