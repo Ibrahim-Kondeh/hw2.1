@@ -15,4 +15,4 @@ if (isset($_POST['my-name'])) {
 <?php
 }
 include "view-footer.php";
-?>
+?> 
